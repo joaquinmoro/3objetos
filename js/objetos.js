@@ -52,7 +52,7 @@ cubo.area();                // 800
 --------------------------------------------------------------------------------------------
 */
 
-// CREACIÓN OBJETO 2
+// CREACIÓN OBJETO 3
 
 var hucha = {
 
@@ -67,8 +67,8 @@ var hucha = {
     }
 }
 
-// ACCEDER A LAS PROPIEDADES DEL OBJETO 2
+// ACCEDER A LAS PROPIEDADES DEL OBJETO 3
 hucha.monedas1euro;               // 15
 
-// ACCEDER AL MÉTODO DEL OBJETO 2
+// ACCEDER AL MÉTODO DEL OBJETO 3
 hucha.ahorroTotal();                // 42
